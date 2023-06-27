@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom'
-import capa3 from "/Users/moise/Desktop/Projetos/REACT/FILMES_CINEMA/filmes_cinema/filmes_cinema/src/capasdefilme/capa3.png"
+import capa3 from "../capasdefilme/capa3.png"
 
 function Linketernos(){
 

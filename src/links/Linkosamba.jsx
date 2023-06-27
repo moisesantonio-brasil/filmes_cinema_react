@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom'
-import capa27 from "/Users/moise/Desktop/Projetos/REACT/FILMES_CINEMA/filmes_cinema/filmes_cinema/src/capasdefilme/capa27.png"
+import capa27 from "../capasdefilme/capa27.png"
    
 function Linkosamba(){
     const navigate = useNavigate()

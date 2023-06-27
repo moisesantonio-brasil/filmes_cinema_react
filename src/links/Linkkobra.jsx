@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom'
-import capa30 from "/Users/moise/Desktop/Projetos/REACT/FILMES_CINEMA/filmes_cinema/filmes_cinema/src/capasdefilme/capa30.png"
+import capa30 from "../capasdefilme/capa30.png"
    
 function Linkkobra(){
     const navigate = useNavigate()

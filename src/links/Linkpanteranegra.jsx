@@ -1,6 +1,6 @@
 /* eslint-disable react/no-unescaped-entities */
 import { useNavigate } from 'react-router-dom'
-import capa4 from "/Users/moise/Desktop/Projetos/REACT/FILMES_CINEMA/filmes_cinema/filmes_cinema/src/capasdefilme/capa4.png"
+import capa4 from "../capasdefilme/capa4.png"
     
 function Linkpanteranegra(){
     const navigate = useNavigate()

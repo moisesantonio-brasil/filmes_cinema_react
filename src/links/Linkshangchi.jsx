@@ -1,6 +1,6 @@
 /* eslint-disable react/no-unescaped-entities */
 import { useNavigate } from 'react-router-dom'
-import capa2 from "/Users/moise/Desktop/Projetos/REACT/FILMES_CINEMA/filmes_cinema/filmes_cinema/src/capasdefilme/capa2.png"
+import capa2 from "../capasdefilme/capa2.png"
 
 function Linkshangchi(){
     const navigate = useNavigate()

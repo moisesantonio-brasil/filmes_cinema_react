@@ -1,7 +1,7 @@
 /* eslint-disable react/no-unescaped-entities */
 import { useNavigate } from 'react-router-dom'
 
-import capa14 from "/Users/moise/Desktop/Projetos/REACT/FILMES_CINEMA/filmes_cinema/filmes_cinema/src/capasdefilme/capa14.png"
+import capa14 from "../capasdefilme/capa14.png"
 function Linknorbit(){
     const navigate = useNavigate()
 

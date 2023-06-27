@@ -1,7 +1,7 @@
 /* eslint-disable no-irregular-whitespace */
 /* eslint-disable react/no-unescaped-entities */
 import { useNavigate } from 'react-router-dom'
-import capa19 from "/Users/moise/Desktop/Projetos/REACT/FILMES_CINEMA/filmes_cinema/filmes_cinema/src/capasdefilme/capa19.png"
+import capa19 from "../capasdefilme/capa19.png"
 
 function Linkmatrix(){
     const navigate = useNavigate()

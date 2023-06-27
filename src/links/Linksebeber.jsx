@@ -1,6 +1,6 @@
 /* eslint-disable react/no-unescaped-entities */
 import { useNavigate } from 'react-router-dom'
-import capa11 from "/Users/moise/Desktop/Projetos/REACT/FILMES_CINEMA/filmes_cinema/filmes_cinema/src/capasdefilme/capa11.png"
+import capa11 from "../capasdefilme/capa11.png"
 
 function Linksebeber(){
     const navigate = useNavigate()

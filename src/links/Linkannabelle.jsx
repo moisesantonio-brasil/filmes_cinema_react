@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom'
-import capa24 from "/Users/moise/Desktop/Projetos/REACT/FILMES_CINEMA/filmes_cinema/filmes_cinema/src/capasdefilme/capa24.png"
+import capa24 from "../capasdefilme/capa24.png"
 function Linkannabelle(){
     const navigate = useNavigate()
 

@@ -1,6 +1,6 @@
 /* eslint-disable react/no-unescaped-entities */
 import { useNavigate } from 'react-router-dom'
-import capa28 from "/Users/moise/Desktop/Projetos/REACT/FILMES_CINEMA/filmes_cinema/filmes_cinema/src/capasdefilme/capa28.png"
+import capa28 from "../capasdefilme/capa28.png"
   
 function Linksérgio(){
     const navigate = useNavigate()

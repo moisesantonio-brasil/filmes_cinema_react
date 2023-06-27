@@ -1,5 +1,5 @@
 import { useNavigate } from 'react-router-dom'
-import capa25 from "/Users/moise/Desktop/Projetos/REACT/FILMES_CINEMA/filmes_cinema/filmes_cinema/src/capasdefilme/capa25.png"
+import capa25 from "../capasdefilme/capa25.png"
 
 function Linksorria(){
     const navigate = useNavigate()
