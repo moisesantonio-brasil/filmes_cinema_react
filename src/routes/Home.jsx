@@ -33,7 +33,7 @@ import capa28 from "/Users/moise/Desktop/Projetos/REACT/FILMES_CINEMA/filmes_cin
 import capa29 from "/Users/moise/Desktop/Projetos/REACT/FILMES_CINEMA/filmes_cinema/filmes_cinema/src/capasdefilme/capa29.png"
 import capa30 from "/Users/moise/Desktop/Projetos/REACT/FILMES_CINEMA/filmes_cinema/filmes_cinema/src/capasdefilme/capa30.png"
 
-import css from "/Users/moise/Desktop/Projetos/REACT/FILMES_CINEMA/filmes_cinema/filmes_cinema/src/App.css"
+
 
 const Home = ()=>{
     const h1_f ={
